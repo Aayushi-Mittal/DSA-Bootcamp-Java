@@ -122,12 +122,12 @@
     - Exception Handling -> try,catch,finally,throw,throws 
     - Collections Framework
     - Lambda Expression
-    - Multithreading
+    - Multithreading and all concept
     - Enums
     - Fast IO
     - File handling
 - Greedy Algorithms
-- Stacks & Queues
+- Stacks & Queues (LIFO AND FIFO)
     - Introduction
     - Interview problems question
     - Push efficient
