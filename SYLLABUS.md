@@ -126,6 +126,7 @@
     - Enums
     - Fast IO
     - File handling
+    - Basic Sorting Algo
 - Greedy Algorithms
 - Stacks & Queues (LIFO AND FIFO)
     - Introduction
