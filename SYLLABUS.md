@@ -119,7 +119,7 @@
     - final, finalize, finally
     - Object Class
     - Generics
-    - Exception Handling -> try,catch,finally,throw,throws
+    - Exception Handling -> try,catch,finally,throw,throws 
     - Collections Framework
     - Lambda Expression
     - Multithreading
@@ -129,7 +129,7 @@
 - Greedy Algorithms
 - Stacks & Queues
     - Introduction
-    - Interview problems
+    - Interview problems question
     - Push efficient
     - Pop efficient
     - Queue using Stack and Vice versa
@@ -142,6 +142,8 @@
     - Cycle Detection
     - Single and Doubly LinkedList
     - Reversal of LinkedList
+    - palindrom
+    - circular list
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
