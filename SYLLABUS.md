@@ -127,6 +127,8 @@
     - Fast IO
     - File handling
     - Basic Sorting Algo
+    - Bubble sort 
+    - Selection Sort
 - Greedy Algorithms
 - Stacks & Queues (LIFO AND FIFO)
     - Introduction
