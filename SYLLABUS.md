@@ -119,9 +119,10 @@
     - final, finalize, finally
     - Object Class
     - Generics
-    - Exception Handling
+    - Exception Handling -> try,catch,finally,throw,throws
     - Collections Framework
     - Lambda Expression
+    - Multithreading
     - Enums
     - Fast IO
     - File handling
@@ -133,6 +134,8 @@
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
+    - leetcode(practice)
+    - gfg (practice)
 - Linked List
     - Introduction
     - Fast and slow pointer
